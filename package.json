@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-screenshot-blocker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Native module to block android screenshots from the app",
   "main": "build/index.js",
   "types": "build/index.d.ts",
