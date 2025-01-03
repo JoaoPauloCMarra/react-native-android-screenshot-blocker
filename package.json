@@ -4,6 +4,14 @@
   "description": "Native module to block android screenshots from the app",
   "main": "build/index.js",
   "types": "build/index.d.ts",
+  "files": [
+    "build/",
+    "android/",
+    "ios/",
+    "README.md",
+    "!android/build/",
+    "!ios/build/"
+  ],
   "scripts": {
     "build": "expo-module build",
     "clean": "expo-module clean",
